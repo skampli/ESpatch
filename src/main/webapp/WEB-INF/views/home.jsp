@@ -17,7 +17,7 @@
 <jsp:include page="header.jsp"></jsp:include>
 <br/><br/><br/><br/><br/>
 	<div align="center">
-	<h2 class="text-info"> Welcome ESpatching Tool</h2><br/><br/>
+	<h2 class="text-info">-: Welcome ES patching Tool :-</h2><br/><br/>
 	<a href="/ESpatch/user" ><p class="text-warning">Go to the Login Page</p></a>
 	</div>
 	<br/><br/><br/><br/><br/>

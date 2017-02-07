@@ -44,7 +44,7 @@
 		<table>
 			
 			<tr>
-				<td><h3 class="text-info">User page section <br/></h3></td></tr>
+				<td><h3 class="text-info">User page section view<br/></h3></td></tr>
 				<tr><td align="center"><a href="#"><button class="btn btn-warning"  type="submit" >continue</button> </a><br /> <br /></td> 
 			</tr>
 			</table>

@@ -1,0 +1,95 @@
+!SESSION 2016-09-23 11:16:51.919 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.jface 2 0 2016-09-23 11:18:01.693
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-09-23 11:18:01.693
+!MESSAGE A conflict occurred for CTRL+F9:
+Binding(CTRL+F9,
+	ParameterizedCommand(Command(org.eclipse.mylyn.tasks.ui.command.activateTask,Activate Task,
+		,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7f3d8103,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+F9,
+	ParameterizedCommand(Command(RunSQLAction,Run SQL,
+		Run SQL,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1ee12d38,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.genuitec.eclipse.core 1 0 2016-09-23 11:18:07.814
+!MESSAGE GSDC: Configuration directory exists at C:\Users\djhalani\AppData\Local\Cisco Java EE App Development (MyEclipse Professional)\configuration\com.genuitec.myeclipse
+
+!ENTRY com.genuitec.eclipse.core 1 0 2016-09-23 11:18:07.815
+!MESSAGE GSDC: Secure configuration file exists at C:\Users\djhalani\AppData\Local\Cisco Java EE App Development (MyEclipse Professional)\configuration\com.genuitec.myeclipse\myeclipse.secure.activation
+
+!ENTRY com.genuitec.eclipse.core 1 0 2016-09-23 11:18:07.888
+!MESSAGE GSDC: Secure mode is active.
+
+!ENTRY com.genuitec.eclipse.core 1 0 2016-09-23 11:18:08.024
+!MESSAGE GSDC: MyEclipse subscription has already been activated.
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2016-09-23 11:18:27.688
+!MESSAGE Installed snippet library: C:\Users\djhalani\AppData\Local\Cisco Java EE App Development (MyEclipse Professional)\configuration\org.eclipse.osgi\bundles\149\1\.cp\snippets\html\css_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2016-09-23 11:18:27.740
+!MESSAGE Installed snippet library: C:\Users\djhalani\AppData\Local\Cisco Java EE App Development (MyEclipse Professional)\configuration\org.eclipse.osgi\bundles\149\1\.cp\snippets\html\forms_lists_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2016-09-23 11:18:27.756
+!MESSAGE Installed snippet library: C:\Users\djhalani\AppData\Local\Cisco Java EE App Development (MyEclipse Professional)\configuration\org.eclipse.osgi\bundles\149\1\.cp\snippets\html\htmlform_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2016-09-23 11:18:27.787
+!MESSAGE Installed snippet library: C:\Users\djhalani\AppData\Local\Cisco Java EE App Development (MyEclipse Professional)\configuration\org.eclipse.osgi\bundles\149\1\.cp\snippets\html\html_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2016-09-23 11:18:27.822
+!MESSAGE Installed snippet library: C:\Users\djhalani\AppData\Local\Cisco Java EE App Development (MyEclipse Professional)\configuration\org.eclipse.osgi\bundles\149\1\.cp\snippets\html\javascript_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2016-09-23 11:18:27.849
+!MESSAGE Installed snippet library: C:\Users\djhalani\AppData\Local\Cisco Java EE App Development (MyEclipse Professional)\configuration\org.eclipse.osgi\bundles\149\1\.cp\snippets\jsp\jsf_f_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2016-09-23 11:18:27.880
+!MESSAGE Installed snippet library: C:\Users\djhalani\AppData\Local\Cisco Java EE App Development (MyEclipse Professional)\configuration\org.eclipse.osgi\bundles\149\1\.cp\snippets\jsp\jsf_h_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2016-09-23 11:18:27.918
+!MESSAGE Installed snippet library: C:\Users\djhalani\AppData\Local\Cisco Java EE App Development (MyEclipse Professional)\configuration\org.eclipse.osgi\bundles\149\1\.cp\snippets\jsp\struts_bean_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2016-09-23 11:18:27.952
+!MESSAGE Installed snippet library: C:\Users\djhalani\AppData\Local\Cisco Java EE App Development (MyEclipse Professional)\configuration\org.eclipse.osgi\bundles\149\1\.cp\snippets\jsp\struts_html_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2016-09-23 11:18:27.978
+!MESSAGE Installed snippet library: C:\Users\djhalani\AppData\Local\Cisco Java EE App Development (MyEclipse Professional)\configuration\org.eclipse.osgi\bundles\149\1\.cp\snippets\jsp\struts_logic_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2016-09-23 11:18:28.001
+!MESSAGE Installed snippet library: C:\Users\djhalani\AppData\Local\Cisco Java EE App Development (MyEclipse Professional)\configuration\org.eclipse.osgi\bundles\149\1\.cp\snippets\jsp\struts_tiles_snippets.xml
+
+!ENTRY org.springsource.ide.eclipse.commons.frameworks.core 0 0 2016-09-23 11:18:29.722
+!MESSAGE Result of converting legacy STS 2.x workspace preferences to 3.x
+!SUBENTRY 1 org.springsource.ide.eclipse.commons.frameworks.core 0 0 2016-09-23 11:18:29.722
+!MESSAGE Converted legacy STS plugin preferences
+!SUBENTRY 1 unknown 0 0 2016-09-23 11:18:29.722
+!MESSAGE OK
+!SUBENTRY 1 org.springsource.ide.eclipse.commons.frameworks.core 0 0 2016-09-23 11:18:29.722
+!MESSAGE Converted legacy Roo plugin state locations
+!SUBENTRY 1 org.springsource.ide.eclipse.commons.frameworks.core 0 0 2016-09-23 11:18:29.722
+!MESSAGE Converted legacy STS plugin state locations
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-09-23 11:20:02.175
+!MESSAGE CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-09-23 11:20:02.178
+!MESSAGE CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2016-09-23 11:20:02.179
+!MESSAGE CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subclipse does not contain lifecycle mapping metadata
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2016-09-23 11:22:38.670
+!MESSAGE Unable to update index for nexus|http://advsvctools.cisco.com:8080/nexus/content/groups/public

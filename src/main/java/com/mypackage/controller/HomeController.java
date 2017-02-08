@@ -1,4 +1,4 @@
-package com.mypackage.csv.controller;
+package com.mypackage.controller;
 import javax.servlet.http.HttpServlet;
 
 import org.springframework.stereotype.Controller;

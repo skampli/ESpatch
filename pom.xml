@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.mypackage</groupId>
   <artifactId>ESpatch</artifactId>
-  <version></version>  
+  <version>0.0.1</version>  
   <packaging>war</packaging>
   <name>Automation</name>
   <properties>
